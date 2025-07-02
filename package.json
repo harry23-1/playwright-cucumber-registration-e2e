@@ -1,0 +1,20 @@
+{
+  "name": "playwright",
+  "version": "1.0.0",
+  "description": "",
+  "main": "cucumber.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@cucumber/cucumber": "^11.3.0",
+    "@cucumber/pretty-formatter": "^1.0.1",
+    "playwright": "^1.53.2"
+  },
+  "dependencies": {
+    "mailslurp-client": "^15.24.1"
+  }
+}

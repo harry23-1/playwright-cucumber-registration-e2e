@@ -1,0 +1,15 @@
+node_modules/
+.env
+*.log
+.vscode/
+.DS_Store
+*.local
+output/
+coverage/
+dist/
+results/
+playwright-report/
+.git/
+*.sqlite
+*.pyc
+__pycache__/
